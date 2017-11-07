@@ -11,6 +11,7 @@
 <p><a href="https://resources.count.ly/v1.0/docs/countly-sdk-for-android">Countly</a></p>
 <p><a href="http://developer.dji.com/mobile-sdk/">DJI</a></p>
 <p><a href="https://www.dropbox.com/developers-v1/core/sdks/android">Dropbox</a></p>
+<p><a href="https://github.com/evernote/evernote-sdk-android">Evernote</a></p>
 <p><a href="https://docs.fabric.io/android/fabric/overview.html">Fabric</a></p>
 <p><a href="https://developers.facebook.com/docs/android/">Facebook</a></p>
 <p><a href="http://fillr.github.io/docs/sdk/browser/android/">Fillr</a></p>
@@ -22,6 +23,7 @@
 <p><a href="https://developer.linkedin.com/docs/android-sdk#">LinkedIn</a></p>
 <p><a href="https://loopback.io/doc/en/lb2/Android-SDK.html">Loopback</a></p>
 <p><a href="https://www.mapbox.com/navigation-sdk/">Mapbox</a></p>
+<p><a href="https://github.com/microsoftgraph/msgraph-sdk-android">Microsoft Graph</a></p>
 <p><a href="https://docs.microsoft.com/en-us/intune/app-sdk-android">Microsoft Intune</a></p>
 <p><a href="https://docs.newrelic.com/docs/mobile-monitoring/new-relic-mobile-android/api-guides/android-sdk-api-guide">New Relic</a></p>
 <p><a href="https://documentation.onesignal.com/v3.0/docs/android-sdk-setup">One Signal</a></p>
